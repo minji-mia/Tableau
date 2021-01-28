@@ -1,4 +1,5 @@
 # Tableau's Desktop Specialist Certificate Prep
+https://mkt.tableau.com/files/DesktopSpecialist_ExamGuide.pdf
 
 ## Exam Format
 
