@@ -1,4 +1,4 @@
-# Tableau's Desktop Specialist Certificate Prep
+# 💯 Tableau's Desktop Specialist Certificate Prep
 Prepare to pass the Tableau Desktop Specialist exam 
 
 ## Exam Format
