@@ -10,3 +10,5 @@ Through hands-on exercises, I've learned how to organize and analyze data, creat
 - Analyzing Data in Tableau
 - Creating Dashboards in Tableau
 - Connecting Data in Tableau
+
+## [Desktop Desktop Specialist Certificate Prep](https://github.com/minji-mia/Tableau/tree/main/Desktop%20Specialist%20Certificate%20Prep)
