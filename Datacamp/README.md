@@ -16,3 +16,6 @@ Finally, I've learned power user techniques, including how to slice and dice dat
 ## 📜 Certificate
 - [Introduction to Tableau](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Introduction%20to%20Tableau%20certificate.pdf)
 
+## Reference
+https://learn.datacamp.com/skill-tracks/tableau-fundamentals
+
