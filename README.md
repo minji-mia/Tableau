@@ -1,8 +1,4 @@
-# Tableau 
-
-<a href="https://public.tableau.com/profile/minji.kim2364#!/" target="_blank">
-<img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white />
-</a>
+# Tableau <a href="https://public.tableau.com/profile/minji.kim2364#!/" target="_blank"><img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white /></a>
 
 I've learned how to use Tableau—one of the world’s most popular business intelligence tools. 
 With its user-friendly drag-and-drop functionality it can be used by everyone to quickly clean, analyze, and visualize data.
