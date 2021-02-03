@@ -13,5 +13,5 @@ I have completed four parts of Tableau skill track from Datacamp.
 - Creating Dashboards in Tableau
 - Connecting Data in Tableau
 
-## [Desktop Desktop Specialist Certificate Prep](https://github.com/minji-mia/Tableau/tree/main/Desktop%20Specialist%20Certificate%20Prep)
+## [Desktop Specialist Certificate Prep](https://github.com/minji-mia/Tableau/tree/main/Desktop%20Specialist%20Certificate%20Prep)
 Prepare to pass the Tableau Desktop Specialist exam 
