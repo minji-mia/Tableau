@@ -9,7 +9,7 @@ Through hands-on exercises, I've learned how to organize and analyze data, creat
 
 ## [SKILL TRACK: Tableau Fundamentals with Datacamp](https://github.com/minji-mia/Tableau/tree/main/Datacamp)
 
-I have completed four parts of Tableau skill track from Datacamp. [Certificate](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Tableau%20Fundamentals%20Track%20certificate.pdf)
+I have completed four parts of Tableau skill track from Datacamp. [**Certificate**](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Tableau%20Fundamentals%20Track%20certificate.pdf)
 
 - Introduction to Tableau
 - Analyzing Data in Tableau
