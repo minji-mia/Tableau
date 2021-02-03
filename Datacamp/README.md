@@ -19,6 +19,7 @@ Finally, I've learned power user techniques, including how to slice and dice dat
 
 - [Introduction to Tableau](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Introduction%20to%20Tableau%20certificate.pdf)
 - [Analyzing Data in Tableau](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Analyzing%20Data%20in%20Tableau%20certificate.pdf)
+- [Creating Dashboards in Tableau](https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Creating%20Dashboards%20in%20Tableau%20certificate.pdf)
 
 ## Reference
 
