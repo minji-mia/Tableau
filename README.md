@@ -17,4 +17,4 @@ I have completed four parts of Tableau skill track from Datacamp. [**[Certificat
 - Connecting Data in Tableau
 
 ## [Desktop Specialist Certificate Prep](https://github.com/minji-mia/Tableau/tree/main/Desktop%20Specialist%20Certificate%20Prep)
-Prepare to pass the Tableau Desktop Specialist exam 
+I have prepared to pass the Tableau Desktop Specialist exam with Udemy course. [**[Certificate]**](https://github.com/minji-mia/Tableau/blob/main/Desktop%20Specialist%20Certificate%20Prep/udemy%20certificate.pdf)
