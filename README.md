@@ -6,6 +6,7 @@ Through hands-on exercises, I've learned how to organize and analyze data, creat
 
 ## Tableau Desktop Specialist
 Officially a Tableau Desktop Specialist!
+https://www.youracclaim.com/badges/54852a88-b921-4691-abc9-4312ef7a3a95?source=linked_in_profile
 
 ## [SKILL TRACK: Tableau Fundamentals with Datacamp](https://github.com/minji-mia/Tableau/tree/main/Datacamp)
 
