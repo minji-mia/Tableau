@@ -1,11 +1,11 @@
 # Tableau 
-<a href="https://public.tableau.com/profile/minji.kim2364#!/" target="_blank">
-  <img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white />
-</a>
 
 I've learned how to use Tableau—one of the world’s most popular business intelligence tools. 
 With its user-friendly drag-and-drop functionality it can be used by everyone to quickly clean, analyze, and visualize data.
 Through hands-on exercises, I've learned how to organize and analyze data, create presentation-ready visualizations, build insightful dashboards, and apply analytics to worksheets. 
+
+## Tableau Desktop Specialist
+Officially a Tableau Desktop Specialist!
 
 ## [SKILL TRACK: Tableau Fundamentals with Datacamp](https://github.com/minji-mia/Tableau/tree/main/Datacamp)
 
