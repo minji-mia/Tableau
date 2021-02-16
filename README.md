@@ -24,6 +24,6 @@ I have completed four parts of Tableau skill track from Datacamp.
 <div>
 I have prepared to pass the Tableau Desktop Specialist exam with Udemy course.
  <a href="https://github.com/minji-mia/Tableau/blob/main/Desktop%20Specialist%20Certificate%20Prep/udemy%20certificate.pdf" target="_blank">
-  <img src=https://img.shields.io/badge/Certificate-Complete-%2303EF62?style=?flat-square&logo=Udemy />
+  <img src=https://img.shields.io/badge/Certificate-Complete-%23EC5252?style=?flat-square&logo=Udemy />
  </a>
 </div>
