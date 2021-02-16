@@ -9,9 +9,11 @@ Officially a Tableau Desktop Specialist!
 [![Certification](https://user-images.githubusercontent.com/52568892/107602487-59083d00-6bef-11eb-94f5-97ea8006e630.png)](https://www.youracclaim.com/badges/54852a88-b921-4691-abc9-4312ef7a3a95?source=linked_in_profile)
 
 <div>
+  <h2>
   <a href="https://github.com/minji-mia/Tableau/tree/main/Datacamp" target="_blank">
     SKILL TRACK: Tableau Fundamentals with Datacamp
   </a>
+  </h2>
   <a href="https://github.com/minji-mia/Tableau/blob/main/Datacamp/Datacamp%20Certificate/Tableau%20Fundamentals%20Track%20certificate.pdf" target="_blank">
   <img src=https://img.shields.io/badge/Certificate-Complete-%2303EF62?style=?flat-square&logo=DataCamp />
  </a>
@@ -26,9 +28,11 @@ I have completed four parts of Tableau skill track from Datacamp.
 - Connecting Data in Tableau
 
 <div>
+  <h2>
   <a href="https://github.com/minji-mia/Tableau/tree/main/Desktop%20Specialist%20Certificate%20Prep" target="_blank">
     Desktop Specialist Certificate Prep
   </a>
+   </h2
  <a href="https://github.com/minji-mia/Tableau/blob/main/Desktop%20Specialist%20Certificate%20Prep/udemy%20certificate.pdf" target="_blank">
   <img src=https://img.shields.io/badge/Certificate-Complete-%23EC5252?style=?flat-square&logo=Udemy />
  </a>
