@@ -1,5 +1,6 @@
 # 💯 Tableau's Desktop Specialist Certificate Prep
-I prepared to pass the Tableau Desktop Specialist exam with Udemy course.
+
+This repository contains all the work and assignments to pass the Tableau Desktop Specialist exam with Udemy course.
 
 ## Exam Format
 
