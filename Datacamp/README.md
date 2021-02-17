@@ -1,5 +1,7 @@
 ## Overview: Tableau Fundamentals with Datacamp
 
+This repository contains all the work and assignments I did from the following:
+
 - Introduction to Tableau
 - Analyzing Data in Tableau
 - Creating Dashboards in Tableau
