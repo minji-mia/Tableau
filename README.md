@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This repository includes all the work I did locally in preperation for taking the Tableau Desktop Specialist. This includes work and assignments from the following.
 I've learned how to use Tableau—one of the world’s most popular business intelligence tools. 
