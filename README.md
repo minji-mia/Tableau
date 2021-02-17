@@ -1,5 +1,6 @@
-# Tableau 
+# Introduction
 
+This repository includes all the work I did locally in preperation for taking the Tableau Desktop Specialist. This includes work and assignments from the following.
 I've learned how to use Tableau—one of the world’s most popular business intelligence tools. 
 With its user-friendly drag-and-drop functionality it can be used by everyone to quickly clean, analyze, and visualize data.
 Through hands-on exercises, I've learned how to organize and analyze data, create presentation-ready visualizations, build insightful dashboards, and apply analytics to worksheets. 
